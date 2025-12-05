@@ -16,8 +16,8 @@ SIREN: 879 819 480
 SIRET: 879 819 480 00044  
 Bureau 326, 78 Avenue des Champs-Élysées  
 75008 Paris, France  
-Email: support@babyfeed.app  
-Legal contact: legal@babyfeed.app
+Email: amgiosdev@gmail.com
+Legal contact: amgiosdev@gmail.com
 
 ---
 
@@ -341,7 +341,7 @@ Disputes shall be resolved in:
 
 Before filing a lawsuit, you agree to:
 
-1. Contact us at legal@babyfeed.app
+1. Contact us at amgiosdev@gmail.com
 2. Describe the dispute in detail
 3. Allow 60 days for good-faith resolution
 4. Participate in mediation if requested
@@ -355,7 +355,7 @@ You may agree to binding arbitration:
 - **Location**: Paris, France (or remote)
 - **Costs**: Shared equally unless otherwise decided
 
-**Opt-out**: Email legal@babyfeed.app within 30 days of first use.
+**Opt-out**: Email amgiosdev@gmail.com within 30 days of first use.
 
 ### 11.5 Class Action Waiver
 
@@ -396,7 +396,7 @@ If you are in California:
 
 - You have the right to know, delete, and opt-out
 - We do NOT sell your personal information
-- Contact privacy@babyfeed.app to exercise rights
+- Contact amgiosdev@gmail.com to exercise rights
 
 ### 12.4 COPPA (US Users)
 
@@ -443,9 +443,9 @@ We are not liable for delays/failures due to:
 
 For questions about these Terms:
 
-- **General**: support@babyfeed.app
-- **Legal**: legal@babyfeed.app
-- **Privacy**: privacy@babyfeed.app
+- **General**: amgiosdev@gmail.com
+- **Legal**: amgiosdev@gmail.com
+- **Privacy**: amgiosdev@gmail.com
 
 **Response time**: Within 5 business days
 
@@ -529,7 +529,7 @@ Changes to these Terms:
 💰 **Free app (premium features optional)**  
 🚫 **No warranties - "as is" provision**  
 ⚖️ **Disputes resolved in Paris, France (or your local courts)**  
-📧 **Questions? support@babyfeed.app**  
+📧 **Questions? amgiosdev@gmail.com**  
 
 **By using BabyFeed, you agree to these Terms.**
 
@@ -545,5 +545,5 @@ All rights reserved.
 
 **Related Documents**:
 - [Privacy Policy](https://github.com/AmgiOS/babyfeed-privacy/blob/main/privacy.md)
-- [Support](mailto:support@babyfeed.app)
-- [Report Issues](mailto:support@babyfeed.app)
+- [Support](mailto:amgiosdev@gmail.com)
+- [Report Issues](mailto:amgiosdev@gmail.com)
