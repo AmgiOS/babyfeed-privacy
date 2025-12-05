@@ -14,8 +14,8 @@ SIREN: 879 819 480
 SIRET: 879 819 480 00044  
 Bureau 326, 78 Avenue des Champs-Élysées  
 75008 Paris, France  
-Email: privacy@babyfeed.app  
-Data Protection Officer: privacy@babyfeed.app
+Email: amgiosdev@gmail.com
+Data Protection Officer: amgiosdev@gmail.com
 
 ---
 
@@ -129,7 +129,7 @@ You have the right to:
 - **Opposition** (Article 21): Object to processing
 - **Withdraw consent** (Article 7.3): Anytime, without penalty
 
-**How to exercise**: Settings > Delete All Data or email privacy@babyfeed.app  
+**How to exercise**: Settings > Delete All Data or email amgiosdev@gmail.com
 **Response time**: Within 1 month (GDPR Article 12.3)
 
 ### 6.2 California (CCPA)
@@ -141,7 +141,7 @@ You have the right to:
 - **Opt-out** of data sales (§1798.120) - *We don't sell data*
 - **Non-discrimination** (§1798.125)
 
-**How to exercise**: Email privacy@babyfeed.app  
+**How to exercise**: Email amgiosdev@gmail.com
 **Response time**: Within 45 days (CCPA §1798.130)
 
 ### 6.3 Other Jurisdictions
@@ -149,7 +149,7 @@ You have the right to:
 - **UK**: Same rights as GDPR (UK GDPR)
 - **Canada**: PIPEDA compliance
 - **Brazil**: LGPD compliance
-- **Rest of world**: Contact privacy@babyfeed.app
+- **Rest of world**: Contact amgiosdev@gmail.com
 
 ---
 
@@ -265,8 +265,8 @@ We may update this policy:
 
 For any privacy questions:
 
-- **Email**: privacy@babyfeed.app
-- **DPO**: privacy@babyfeed.app
+- **Email**: amgiosdev@gmail.com
+- **DPO**: amgiosdev@gmail.com
 - **Response time**: Within 48 hours (business days)
 
 For complaints:
