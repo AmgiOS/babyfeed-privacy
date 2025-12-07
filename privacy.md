@@ -185,10 +185,10 @@ If you enable notifications:
 
 If you enable iCloud backup:
 
-- **Control**: Apple, not BabyFeed
+- **Control**: Apple, not FeedEase
 - **Encryption**: Yes (Apple manages)
 - **Access**: Only you via your Apple ID
-- **Disable**: iOS Settings > [Your Name] > iCloud > BabyFeed (OFF)
+- **Disable**: iOS Settings > [Your Name] > iCloud > FeedEase (OFF)
 
 **Privacy policy**: [Apple's iCloud Policy](https://www.apple.com/legal/privacy/)
 
@@ -281,7 +281,7 @@ For complaints:
 ## 16. TECHNICAL DETAILS
 
 **App information**:
-- **Name**: BabyFeed Tracker
+- **Name**: FeedEase
 - **Version**: 1.0
 - **Platform**: iOS 17.0+
 - **Technology**: Swift, SwiftUI, Core Data (local)
@@ -291,7 +291,7 @@ For complaints:
 
 ## 17. CONSENT AND ACCEPTANCE
 
-By downloading and using BabyFeed, you confirm that:
+By downloading and using FeedEase, you confirm that:
 
 - You have read and understood this privacy policy
 - You accept the terms of data processing
@@ -329,7 +329,7 @@ In case of discrepancy, the English version prevails.
 
 ---
 
-© 2025 BabyFeed - Mickael Akim Gauthier  
+© 2025 FeedEase - Mickael Akim Gauthier  
 All rights reserved.
 
 **Last updated: January 20, 2025**  
