@@ -2,9 +2,9 @@
 
 **Last updated: January 20, 2025**
 
-These Terms of Service ("Terms") govern your use of the BabyFeed mobile application ("App", "Service", "BabyFeed").
+These Terms of Service ("Terms") govern your use of the FeedEase mobile application ("App", "Service", "FeedEase").
 
-**By downloading, installing, or using BabyFeed, you agree to these Terms. If you do not agree, do not use the App.**
+**By downloading, installing, or using FeedEase, you agree to these Terms. If you do not agree, do not use the App.**
 
 ---
 
@@ -25,16 +25,16 @@ Legal contact: amgiosdev@gmail.com
 
 ### 2.1 Agreement
 
-By using BabyFeed, you acknowledge that:
+By using FeedEase, you acknowledge that:
 
 - You have read, understood, and agree to these Terms
-- You have read and agree to our [Privacy Policy]([https://github.com/AmgiOS/babyfeed-privacy/blob/main/privacy.md]))
+- You have read and agree to our [Privacy Policy]([https://github.com/AmgiOS/FeedEase-privacy/blob/main/privacy.md]))
 - You are at least 13 years old (or legal age in your jurisdiction)
 - You have the legal capacity to enter into a binding agreement
 
 ### 2.2 Parental Use
 
-- BabyFeed is designed for parents/guardians to track their baby's feeding
+- FeedEase is designed for parents/guardians to track their baby's feeding
 - You must be 13+ years old to use the App
 - You are responsible for all data entered about your child
 - You have full parental authority over the child's data
@@ -56,7 +56,7 @@ We reserve the right to modify these Terms at any time:
 
 We grant you a limited, non-exclusive, non-transferable, revocable license to:
 
-- Install and use BabyFeed on your personal iOS device
+- Install and use FeedEase on your personal iOS device
 - Use the App for personal, non-commercial purposes
 - Track feeding data for your baby/babies
 
@@ -76,10 +76,10 @@ You agree NOT to:
 
 ### 3.3 Ownership
 
-All intellectual property rights in BabyFeed remain with Mickael Akim Gauthier:
+All intellectual property rights in FeedEase remain with Mickael Akim Gauthier:
 
 - App design, code, graphics, logos
-- Trademarks: "BabyFeed", logo, brand elements
+- Trademarks: "FeedEase", logo, brand elements
 - Algorithms, features, user interface
 - Documentation and support materials
 
@@ -91,7 +91,7 @@ All intellectual property rights in BabyFeed remain with Mickael Akim Gauthier:
 
 ### 4.1 Core Features (Free Version)
 
-BabyFeed provides:
+FeedEase provides:
 
 - Unlimited bottle tracking
 - Baby profile management
@@ -141,7 +141,7 @@ You are responsible for:
 
 ### 5.2 Medical Disclaimer
 
-⚠️ **IMPORTANT**: BabyFeed is a tracking tool, NOT medical advice:
+⚠️ **IMPORTANT**: FeedEase is a tracking tool, NOT medical advice:
 
 - **Not a medical device**: Not FDA approved
 - **Not diagnostic**: Cannot diagnose health conditions
@@ -203,7 +203,7 @@ If you purchase premium features:
 
 ### 7.2 Privacy Policy
 
-Your privacy is governed by our [Privacy Policy]([(https://github.com/AmgiOS/babyfeed-privacy/blob/main/privacy.md)]):
+Your privacy is governed by our [Privacy Policy]([(https://github.com/AmgiOS/FeedEase-privacy/blob/main/privacy.md)]):
 
 - GDPR compliant (EU)
 - CCPA compliant (California)
@@ -226,7 +226,7 @@ To delete all data:
 
 ### 8.1 "AS IS" Provision
 
-BabyFeed is provided "AS IS" and "AS AVAILABLE" without warranties:
+FeedEase is provided "AS IS" and "AS AVAILABLE" without warranties:
 
 - ❌ No warranty of uninterrupted service
 - ❌ No warranty of error-free operation
@@ -310,7 +310,7 @@ We may terminate or suspend your access if:
 
 Upon termination:
 
-- Your license to use BabyFeed ends immediately
+- Your license to use FeedEase ends immediately
 - Delete the App from your device
 - All data remains local (you control deletion)
 - No refunds for unused subscription periods (Apple policy)
@@ -386,7 +386,7 @@ You agree NOT to:
 
 If you are in the EU:
 
-- See our [Privacy Policy](https://github.com/AmgiOS/babyfeed-privacy/blob/main/privacy.md) for GDPR rights
+- See our [Privacy Policy](https://github.com/AmgiOS/FeedEase-privacy/blob/main/privacy.md) for GDPR rights
 - You have the right to lodge complaints with your Data Protection Authority
 - Data processing is based on consent and legitimate interest
 
@@ -410,7 +410,7 @@ If you are in California:
 
 ### 13.1 Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and BabyFeed.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and FeedEase.
 
 ### 13.2 Severability
 
@@ -477,9 +477,9 @@ In case of conflicts between translations, the **English version prevails**.
 You acknowledge that:
 
 - These Terms are between you and Mickael Akim Gauthier, NOT Apple
-- Apple is not responsible for BabyFeed or its content
+- Apple is not responsible for FeedEase or its content
 - Apple has no obligation to provide support
-- Apple is not liable for any claims related to BabyFeed
+- Apple is not liable for any claims related to FeedEase
 
 ### 15.2 Third-Party Beneficiary
 
@@ -487,7 +487,7 @@ Apple is a third-party beneficiary of these Terms and may enforce them.
 
 ### 15.3 Additional Requirements
 
-If you downloaded BabyFeed from the Apple App Store:
+If you downloaded FeedEase from the Apple App Store:
 
 - You must comply with Apple's [App Store Terms](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 - You represent that you are not in an embargoed country
@@ -522,7 +522,7 @@ Changes to these Terms:
 
 ## SUMMARY (TL;DR)
 
-✅ **Use BabyFeed responsibly for tracking your baby's feeding**  
+✅ **Use FeedEase responsibly for tracking your baby's feeding**  
 📱 **Personal, non-commercial use only**  
 ⚠️ **Not medical advice - always consult your pediatrician**  
 🔒 **Your data stays on your device**  
@@ -531,11 +531,11 @@ Changes to these Terms:
 ⚖️ **Disputes resolved in Paris, France (or your local courts)**  
 📧 **Questions? amgiosdev@gmail.com**  
 
-**By using BabyFeed, you agree to these Terms.**
+**By using FeedEase, you agree to these Terms.**
 
 ---
 
-© 2025 BabyFeed - Mickael Akim Gauthier  
+© 2025 FeedEase - Mickael Akim Gauthier  
 All rights reserved.
 
 **Last updated: January 20, 2025**  
@@ -544,6 +544,6 @@ All rights reserved.
 ---
 
 **Related Documents**:
-- [Privacy Policy](https://github.com/AmgiOS/babyfeed-privacy/blob/main/privacy.md)
+- [Privacy Policy](https://github.com/AmgiOS/FeedEase-privacy/blob/main/privacy.md)
 - [Support](mailto:amgiosdev@gmail.com)
 - [Report Issues](mailto:amgiosdev@gmail.com)
